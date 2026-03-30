@@ -43,7 +43,7 @@
 .header__address {
   justify-self: end;
   max-width: 240px;
-  transform: translateY(-3px);
+  margin-bottom: 3px;
 }
 
 .cover {
@@ -225,7 +225,7 @@
   font-size: 40px;
   line-height: 100%;
   text-transform: uppercase;
-  transform: translateY(6px);
+  margin-top: 6px;
 }
 
 .about__text {
